@@ -4,5 +4,5 @@ This project was created for my react course lab in iti MEARN track. Just starte
 
 ## Preview
 a live demo can be found at:
-[https://minimalportfolio.herokuapp.com]
+https://minimalportfolio.herokuapp.com
 
