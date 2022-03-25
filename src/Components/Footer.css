@@ -1,0 +1,16 @@
+footer {
+  flex: 0 0 auto;
+  color: #fff4e3;
+  background-color: black;
+  color: white;
+}
+
+.icon {
+  color: #fff4e3;
+  margin-left: 20px;
+}
+
+.icon:hover {
+  opacity: 0.8;
+  cursor: pointer;
+}
